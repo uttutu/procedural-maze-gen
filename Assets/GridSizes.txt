@@ -1,0 +1,4 @@
+very easy 25 8
+easy	30 7
+med 	40 5
+hard	50 4
